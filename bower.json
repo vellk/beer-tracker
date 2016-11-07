@@ -1,0 +1,26 @@
+{
+  "name": "bier-tracker",
+  "description": "Bier tracking application",
+  "main": "index.js",
+  "authors": [
+    "Oleksandr Taran",
+    "Vitalii Kaliuzhnyi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bier",
+    "tracking",
+    "statistics"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}

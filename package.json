@@ -1,0 +1,22 @@
+{
+  "name": "bier-tracker",
+  "version": "0.0.1",
+  "description": "Bier tracking application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bier",
+    "tracking",
+    "statistics"
+  ],
+  "author": "Oleksandr Taran, Vitalii Kaliuzhnyi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.2",
+    "http-server": "^0.9.0",
+    "typescript": "^2.0.7"
+  }
+}

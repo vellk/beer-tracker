@@ -1,9 +1,10 @@
 {
-    "compilerOptions": {
-        "target": "es5"
+    "compilerOptions": {        
+        "target": "es5",
+        "noImplicitAny": true,
+        "sourceMap": false
     },
-     "files": [
-        "typings/**/*.ts",
-        "src/**/*.ts"
-    ]   
+    "exclude": [
+        "node_modules"
+    ]
 }

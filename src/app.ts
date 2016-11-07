@@ -1,5 +1,5 @@
 angular.module("beer", [])
     
     .controller("MainCtrl", function($scope) {
-        $scope.text = "Hello Ёпты";
+        $scope.text = "Hello";
     });    

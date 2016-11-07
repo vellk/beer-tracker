@@ -4,6 +4,12 @@
         "noImplicitAny": true,
         "sourceMap": false
     },
+    "files": [
+        "typings/tsd.d.ts"
+    ],
+    "include": [        
+        "src/**/*.ts"    
+    ],
     "exclude": [
         "node_modules"
     ]
